@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // PROGRESS
 // https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/
 // current-line: Creating a Repository
